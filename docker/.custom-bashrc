@@ -1,2 +1,0 @@
-source ~/.bashrc
-alias mwoffliner='mwoffliner --redis="redis://redis"'
